@@ -6,4 +6,5 @@ Device-Manager command line interface binary
 
 cd dm-cmd; make; make clean
 
-the outputs are in bin directory 
+the outputs are in bin directory.
+The dm-cmd file is protected.
